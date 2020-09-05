@@ -1,0 +1,12 @@
+{
+  "name": "node-tests",
+  "version": "1.0.0",
+  "description": "testing model in node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ivam galvao filho",
+  "license": "ISC"
+}
